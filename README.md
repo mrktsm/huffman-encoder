@@ -32,8 +32,9 @@ For a detailed walkthrough of the process, check out the [YouTube video](https:/
    ```bash
    git clone https://github.com/mrktsm/huffman-encoder.git
 2. Navigate into the directory:
+   ```bash
    cd HuffmanCoding
-3. Make sure huffmanzip.jar file is in the resources directory
+4. Make sure huffmanzip.jar file is in the resources directory
 
 ### Usage 
 
