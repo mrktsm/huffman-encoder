@@ -38,11 +38,15 @@ For a detailed walkthrough of the process, check out the [YouTube video](https:/
 ### Usage 
 
 To use the Huffman Encoder, run the following commands:
-*** To Encode a File: ***
-java -jar resources/huffmanzip.jar -encode <filename>
-*** To Decode a File: ***
-java -jar resources/huffmanzip.jar -decode <filename>
+-**To Encode a File:**
+   ```bash
+   java -jar resources/huffmanzip.jar -encode <filename>
+   ```
 
+-**To Decode a File:**
+   ```bash
+   java -jar resources/huffmanzip.jar -decode <filename>
+   ```
 Replace <filename> with the name of the file you want to compress or decompress.
 
 ### Running Tests
