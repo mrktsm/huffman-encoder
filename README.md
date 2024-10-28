@@ -38,6 +38,7 @@ For a detailed walkthrough of the process, check out the [YouTube video](https:/
 ### Usage 
 
 To use the Huffman Encoder, run the following commands:
+
 -**To Encode a File:**
    ```bash
    java -jar resources/huffmanzip.jar -encode <filename>
